@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
 
 importScripts(
-  "/pwa-intalks/precache-manifest.e3978d01ee80852fdbcfd470981cf672.js"
+  "/pwa-intalks/precache-manifest.5c1f8b16f4c44cd88f987a4791e952c9.js"
 );
 
 /**
