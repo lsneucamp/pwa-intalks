@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/pwa-intalks/static/media/logo.a6ac92e9.svg"
   },
   {
-    "revision": "ad04db651c6f52351319",
-    "url": "/pwa-intalks/static/js/main.ad04db65.js"
+    "revision": "a6d84700de893b9906ff",
+    "url": "/pwa-intalks/static/js/main.a6d84700.js"
   },
   {
-    "revision": "ad04db651c6f52351319",
+    "revision": "a6d84700de893b9906ff",
     "url": "/pwa-intalks/static/css/main.3e28d602.css"
   },
   {
-    "revision": "4ca412a49f09b654f571d585a614ceef",
+    "revision": "9a46bd21877e73be8374050d9d2ed61a",
     "url": "/pwa-intalks/index.html"
   },
   {
-    "revision": "96d4646cf8d574c50dd37de3e1956314",
+    "revision": "45990b0016c7f63c6ab4a7448c0219d0",
     "url": "/pwa-intalks/asset-manifest.json"
   }
 ];
